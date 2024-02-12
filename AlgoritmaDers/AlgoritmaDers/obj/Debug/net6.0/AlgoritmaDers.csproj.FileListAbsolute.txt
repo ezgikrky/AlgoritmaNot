@@ -1,0 +1,15 @@
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\bin\Debug\net6.0\AlgoritmaDers.exe
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\bin\Debug\net6.0\AlgoritmaDers.deps.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\bin\Debug\net6.0\AlgoritmaDers.runtimeconfig.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\bin\Debug\net6.0\AlgoritmaDers.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\bin\Debug\net6.0\AlgoritmaDers.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\refint\AlgoritmaDers.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\AlgoritmaDers.genruntimeconfig.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AlgoritmaDers\obj\Debug\net6.0\ref\AlgoritmaDers.dll

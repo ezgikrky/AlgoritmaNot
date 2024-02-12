@@ -1,0 +1,15 @@
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\bin\Debug\net6.0\Tekrar.exe
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\bin\Debug\net6.0\Tekrar.deps.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\bin\Debug\net6.0\Tekrar.runtimeconfig.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\bin\Debug\net6.0\Tekrar.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\bin\Debug\net6.0\Tekrar.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\refint\Tekrar.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\Tekrar.genruntimeconfig.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Tekrar\obj\Debug\net6.0\ref\Tekrar.dll

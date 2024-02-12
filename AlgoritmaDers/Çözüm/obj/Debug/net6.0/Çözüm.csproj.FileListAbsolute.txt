@@ -1,0 +1,15 @@
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\bin\Debug\net6.0\Çözüm.exe
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\bin\Debug\net6.0\Çözüm.deps.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\bin\Debug\net6.0\Çözüm.runtimeconfig.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\bin\Debug\net6.0\Çözüm.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\bin\Debug\net6.0\Çözüm.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\refint\Çözüm.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\Çözüm.genruntimeconfig.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\Çözüm\obj\Debug\net6.0\ref\Çözüm.dll

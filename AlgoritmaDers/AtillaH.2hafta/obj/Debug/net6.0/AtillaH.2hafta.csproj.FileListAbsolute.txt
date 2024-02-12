@@ -1,0 +1,15 @@
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\bin\Debug\net6.0\AtillaH.2hafta.exe
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\bin\Debug\net6.0\AtillaH.2hafta.deps.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\bin\Debug\net6.0\AtillaH.2hafta.runtimeconfig.json
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\bin\Debug\net6.0\AtillaH.2hafta.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\bin\Debug\net6.0\AtillaH.2hafta.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.csproj.AssemblyReference.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.AssemblyInfoInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.AssemblyInfo.cs
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\refint\AtillaH.2hafta.dll
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.pdb
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\AtillaH.2hafta.genruntimeconfig.cache
+C:\Users\ezgik\source\repos\AlgoritmaDers\AtillaH.2hafta\obj\Debug\net6.0\ref\AtillaH.2hafta.dll
